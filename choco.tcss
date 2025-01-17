@@ -1,0 +1,60 @@
+.dialog{
+  width:35;
+  margin-left:1;
+  text-align:left;
+}
+.cont-di{
+  width:37;
+}
+Input {
+  width:37;
+}
+.txt {
+  padding-left:2;
+  padding-bottom:1;
+}
+.date{
+  dock:right;
+  padding-right:2;
+  color:gray;
+}
+.sender{
+  background:#3b5999;
+  margin:1;
+  padding-left:2;
+  
+}
+
+.me {
+  background:#53d769;
+  margin:1;
+  padding-left:2;
+  color:black;
+  
+}
+.hidden {
+  display:none;
+}
+.msg {
+  padding-right:2;
+  padding-left: 2;
+  
+}
+#send{
+  width:100%;
+  dock:bottom;
+  border:white;
+  background:$background;
+}
+.reply{
+  width:1;
+  margin:1;
+}
+
+#profile {
+  width:100%;
+  background:#222222;
+  border-bottom:white;
+  text-align: center;
+  padding-top:1;
+}
